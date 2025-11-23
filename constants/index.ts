@@ -57,12 +57,12 @@ export const SKILL_PROGRAMMING = [
     width: 65,
     height: 65,
   },
-  {
-    skill_name: "Solidity",
-    image: "solidity.png",
-    width: 60,
-    height: 60,
-  },
+  // {
+  //   skill_name: "Solidity",
+  //   image: "solidity.png",
+  //   width: 60,
+  //   height: 60,
+  // },
 ] as const;
 
 export const SOCIALS = [
@@ -192,12 +192,12 @@ export const SKILL_MOBILE = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Kotlin",
-    image: "kotlin.png",
-    width: 60,
-    height: 60,
-  },
+  // {
+  //   skill_name: "Kotlin",
+  //   image: "kotlin.png",
+  //   width: 60,
+  //   height: 60,
+  // },
 ] as const;
 
 export const SKILL_MULTIMEDIA = [

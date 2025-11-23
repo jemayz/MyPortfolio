@@ -2,6 +2,7 @@ import { Educational } from "@/components/main/educational";
 import { Hero } from "@/components/main/hero";
 import { Projects } from "@/components/main/projects";
 import { Skills } from "@/components/main/skills";
+import { Participation } from "@/components/main/participation";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
         <Hero />
         <Educational />
         <Skills />
+        <Participation />
         <Projects />
       </div>
     </main>
